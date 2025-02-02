@@ -1,0 +1,5 @@
+.DS_Store
+*-docs.txt
+*/docs/*.txt
+*/docs/*.md
+*/docs/*.mdx
